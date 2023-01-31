@@ -1,5 +1,5 @@
 <h1>TinDog</h1>
-<h2>La aplicación perfecta para encontrar el alma gemela de tu mascota</h2>
+<h2>La aplicación perfecta para encontrar el alma gemela de tu 🐶</h2>
 
 <ul>
   <li>Desafío propuesto por un curso de desarrollo web.</li>
